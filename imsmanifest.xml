@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5qimPQKKhQm_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">The 5Cs of Email Writing</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">CC BY-NCF-ND
+Except where otherwise noted, this work is licensed under Creative Commons Attribution 4.0 International License.
+</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="The_5Cs_of_Email_Writing_ORG">
+    <organization identifier="The_5Cs_of_Email_Writing_ORG">
+      <title>The 5Cs of Email Writing</title>
+      <item identifier="_5Cs_of_Email_Writing_SCO" isvisible="true" identifierref="__5qimPQKKhQm_course_id_RES">
+        <title>The 5Cs of Email Writing</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5qimPQKKhQm_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6Wbq46H045I_80_DX614_DY614_CX644_CY637.png" />
+      <file href="mobile/5ofzO2jMx9s_80_DX96_DY96_CX90_CY90.png" />
+      <file href="mobile/6blzITQrqHp_80_DX96_DY96_CX92_CY92.png" />
+      <file href="mobile/60EbPNcQGqO_80_DX96_DY96_CX92_CY92.png" />
+      <file href="mobile/6lRVdGqzPBh_80_DX96_DY96_CX92_CY92.png" />
+      <file href="story_content/6DblcnkrLPs_44100_48_0.mp3" />
+      <file href="mobile/64MMhEKTdgF_80_DX340_DY340_CX344_CY300.jpg" />
+      <file href="mobile/5WeFBQwFH81_80_DX320_DY320_CX280_CY184.jpg" />
+      <file href="mobile/65fScR9QI1B_80_DX176_DY176_CX184_CY184.png" />
+      <file href="mobile/61QOqvGnqKC_80_DX612_DY612_CX642_CY637.png" />
+      <file href="story_content/6A5ZAoBGWXr_44100_48_0.mp3" />
+      <file href="story_content/6XDB3acdwyy_captions.js" />
+      <file href="mobile/5neQ4tWFgGC_80_DX832_DY832_CX547_CY870.png" />
+      <file href="mobile/5Y143TsJlBQ_80_DX832_DY832_CX484_CY872.png" />
+      <file href="story_content/5WOxMzsQWTi_44100_48_0.mp3" />
+      <file href="story_content/68m2Y4nodd6_captions.js" />
+      <file href="mobile/5jdE0rnNkFC_80_DX612_DY612_CX642_CY637.png" />
+      <file href="mobile/5ucsIodfWeb_80_DX1408_DY1408_CX1280_CY780.png" />
+      <file href="mobile/68UPotIeCgW_80_DX304_DY304_CX214_CY319.jpg" />
+      <file href="mobile/62KfB16vl6J_80_DX832_DY832_CX589_CY871.png" />
+      <file href="mobile/5fehJHpmaH3_80_DX832_DY832_CX482_CY871.png" />
+      <file href="story_content/5ZUwyVjcFQO_44100_48_0.mp3" />
+      <file href="story_content/5f80ECv63fl_captions.js" />
+      <file href="story_content/5rdk8vAtFSx_44100_48_0.mp3" />
+      <file href="story_content/6P8MpFsHLlE_44100_48_0.mp3" />
+      <file href="story_content/6KwAUDvhuo4_captions.js" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5lyRLHzZKid.js" />
+      <file href="html5/data/js/5W0adggeEiX.js" />
+      <file href="html5/data/js/5zzmDL3HjXk.js" />
+      <file href="html5/data/js/6mpAAM2hWdR.js" />
+      <file href="html5/data/js/6YsrbN8LUt8.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
