@@ -9,9 +9,10 @@
           <langstring xml:lang="x-none">The 5Cs of Email Writing</langstring>
         </title>
         <description>
-          <langstring xml:lang="x-none">CC BY-NCF-ND
-Except where otherwise noted, this work is licensed under Creative Commons Attribution 4.0 International License.
-</langstring>
+          <langstring xml:lang="x-none">Createrd by Moses Ho
+
+CC BY-NCF-ND
+Except where otherwise noted, this work is licensed under Creative Commons Attribution 4.0 International License.</langstring>
         </description>
       </general>
       <lifecycle>
@@ -58,7 +59,7 @@ Except where otherwise noted, this work is licensed under Creative Commons Attri
   <organizations default="The_5Cs_of_Email_Writing_ORG">
     <organization identifier="The_5Cs_of_Email_Writing_ORG">
       <title>The 5Cs of Email Writing</title>
-      <item identifier="_5Cs_of_Email_Writing_SCO" isvisible="true" identifierref="__5qimPQKKhQm_course_id_RES">
+      <item identifier="The_5Cs_of_Email_Writing_SCO" isvisible="true" identifierref="__5qimPQKKhQm_course_id_RES">
         <title>The 5Cs of Email Writing</title>
       </item>
     </organization>
@@ -67,10 +68,10 @@ Except where otherwise noted, this work is licensed under Creative Commons Attri
     <resource identifier="__5qimPQKKhQm_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/6Wbq46H045I_80_DX614_DY614_CX644_CY637.png" />
-      <file href="mobile/5ofzO2jMx9s_80_DX96_DY96_CX90_CY90.png" />
-      <file href="mobile/6blzITQrqHp_80_DX96_DY96_CX92_CY92.png" />
-      <file href="mobile/60EbPNcQGqO_80_DX96_DY96_CX92_CY92.png" />
-      <file href="mobile/6lRVdGqzPBh_80_DX96_DY96_CX92_CY92.png" />
+      <file href="mobile/5ofzO2jMx9s_80_DX92_DY92_CX90_CY90.png" />
+      <file href="mobile/6blzITQrqHp_80_DX92_DY92_CX92_CY92.png" />
+      <file href="mobile/60EbPNcQGqO_80_DX92_DY92_CX92_CY92.png" />
+      <file href="mobile/6lRVdGqzPBh_80_DX92_DY92_CX92_CY92.png" />
       <file href="story_content/6DblcnkrLPs_44100_48_0.mp3" />
       <file href="mobile/64MMhEKTdgF_80_DX340_DY340_CX344_CY300.jpg" />
       <file href="mobile/5WeFBQwFH81_80_DX320_DY320_CX280_CY184.jpg" />
